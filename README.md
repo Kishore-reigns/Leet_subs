@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3468-find-the-encrypted-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3468-find-the-encrypted-string) |
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
