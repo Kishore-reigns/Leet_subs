@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 ## Binary Search
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
