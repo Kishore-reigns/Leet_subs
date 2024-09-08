@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Kishore-reigns/Leet_subs/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Kishore-reigns/Leet_subs/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
