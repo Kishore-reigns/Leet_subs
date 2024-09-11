@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [3468-find-the-encrypted-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3468-find-the-encrypted-string) |
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 ## Simulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
