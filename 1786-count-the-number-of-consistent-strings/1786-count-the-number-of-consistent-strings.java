@@ -7,7 +7,8 @@ class Solution {
             for(int j = 0 ; j < arr.length ; j++){
                 if(allowed.indexOf(arr[j]) != -1 )alength++ ;
             }
-            if(alength >= arr.length)res++ ; 
+            if(alength >= arr.length)res++ ;
+            
         }
 
         return res ; 
