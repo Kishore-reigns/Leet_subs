@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Kishore-reigns/Leet_subs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
+| [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -171,4 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
