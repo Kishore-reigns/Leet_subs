@@ -34,14 +34,16 @@ class Solution {
             System.out.println(string);
             list.add(string.toString());
             return list ; 
-        }
-
-        
-        int len = string.length() ; 
+        }else{
+            int len = string.length() ; 
         helper(root.left , string , list);
         string.setLength(len);
         helper(root.right , string, list);
 
+        }
+
+        
+        
 
         return list ; 
     }
