@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kishore-reigns/Leet_subs/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0283-move-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
