@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kishore-reigns/Leet_subs/tree/master/2076-sum-of-digits-of-string-after-convert) |
