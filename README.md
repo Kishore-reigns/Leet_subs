@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0283-move-zeroes) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
