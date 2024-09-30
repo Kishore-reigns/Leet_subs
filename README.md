@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
