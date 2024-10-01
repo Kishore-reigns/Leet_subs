@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0283-move-zeroes) |
+| [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
