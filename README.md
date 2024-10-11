@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
