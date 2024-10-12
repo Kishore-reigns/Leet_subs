@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Counting Sort
