@@ -9,9 +9,8 @@ class Solution {
             long val = queue.poll() ;
              
             score += val ; 
-            val = (long)(Math.ceil((double)val/3));
-           System.out.println(val); 
-            queue.offer((int)val);
+            double updatedVal = Math.ceil((double) val / 3); 
+            queue.offer((int) updatedVal);
         }
 
         return score ; 
