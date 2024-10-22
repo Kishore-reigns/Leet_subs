@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Kishore-reigns/Leet_subs/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -346,5 +348,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
