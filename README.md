@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
