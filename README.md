@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
+| [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
+| [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
