@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Kishore-reigns/Leet_subs/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kishore-reigns/Leet_subs/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Kishore-reigns/Leet_subs/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kishore-reigns/Leet_subs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 ## Hash Table
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
