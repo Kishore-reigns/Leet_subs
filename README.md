@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kishore-reigns/Leet_subs/tree/master/0134-gas-station) |
+| [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Brainteaser
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
