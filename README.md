@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
+| [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 ## String Matching
 |  |
 | ------- |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
