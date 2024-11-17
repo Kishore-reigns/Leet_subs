@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Kishore-reigns/Leet_subs/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Kishore-reigns/Leet_subs/tree/master/0168-excel-sheet-column-title) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
