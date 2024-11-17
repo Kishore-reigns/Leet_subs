@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
+| [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
+| [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
