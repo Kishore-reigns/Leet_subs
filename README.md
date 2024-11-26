@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
+| [3189-find-champion-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
