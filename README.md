@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kishore-reigns/Leet_subs/tree/master/0319-bulb-switcher) |
+| [0390-elimination-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0633-sum-of-square-numbers) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
