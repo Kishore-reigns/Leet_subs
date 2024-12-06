@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kishore-reigns/Leet_subs/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
