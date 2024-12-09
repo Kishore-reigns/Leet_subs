@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Kishore-reigns/Leet_subs/tree/master/1833-find-the-highest-altitude) |
+| [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
