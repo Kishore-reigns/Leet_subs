@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Kishore-reigns/Leet_subs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Kishore-reigns/Leet_subs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 ## Hash Table
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Kishore-reigns/Leet_subs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Geometry
 |  |
