@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Kishore-reigns/Leet_subs/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0523-continuous-subarray-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
