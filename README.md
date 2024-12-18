@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kishore-reigns/Leet_subs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
@@ -386,12 +387,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
 | ------- |
