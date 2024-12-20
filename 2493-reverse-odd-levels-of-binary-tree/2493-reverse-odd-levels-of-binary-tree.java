@@ -15,6 +15,7 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
+        /*
         List<List<Integer>>list = new ArrayList<>() ; 
         list = traverse(root,list,0);
         for(int i = 0 ; i< list.size() ; i++){
@@ -23,7 +24,25 @@ class Solution {
             }
         }
          place(root,list,0);
+         return root ;
+
+         */
+
+         submission(root.left,root.right,0); 
          return root ; 
+    }
+
+    public void submission(TreeNode left , TreeNode right , int lvl){
+        if(left == null || right == null)return ; 
+
+        if( lvl % 2 == 0 ){
+            int temp = left.val ; 
+            left.val = right.val ; 
+            right.val = temp ;
+        }
+
+        submission(left.left,right.right,lvl+1);
+        submission(left.right,right.left,lvl+1);
     }
 
     public void place(TreeNode root , List<List<Integer>> list , int lvl){
