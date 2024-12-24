@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
+| [1222-remove-covered-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishore-reigns/Leet_subs/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
+| [1222-remove-covered-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
