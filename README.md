@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/Kishore-reigns/Leet_subs/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
