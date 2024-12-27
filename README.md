@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
@@ -566,5 +567,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
