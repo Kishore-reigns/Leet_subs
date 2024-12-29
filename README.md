@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Kishore-reigns/Leet_subs/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Kishore-reigns/Leet_subs/tree/master/0907-koko-eating-bananas) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
