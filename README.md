@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Kishore-reigns/Leet_subs/tree/master/0735-asteroid-collision) |
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 ## String Matching
