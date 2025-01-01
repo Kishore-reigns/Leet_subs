@@ -13,7 +13,7 @@ class Solution {
         }
         //if(one[0] == s.length())return one[0]-1 ; 
         int zero = 0 , res = -1 ; 
-        System.out.println(Arrays.toString(one));
+      
         for(int i = 0 ; i < n-1 ; i++){
             if(s.charAt(i) == '0')zero++ ; 
             res = Math.max(res,zero+one[i+1]);
