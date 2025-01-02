@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kishore-reigns/Leet_subs/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
