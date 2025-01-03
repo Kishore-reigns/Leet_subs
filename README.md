@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore-reigns/Leet_subs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2358-number-of-ways-to-split-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Kishore-reigns/Leet_subs/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
 ## String
