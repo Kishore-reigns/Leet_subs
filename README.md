@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kishore-reigns/Leet_subs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Kishore-reigns/Leet_subs/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
 | [1222-remove-covered-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/1222-remove-covered-intervals) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
+| [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/Kishore-reigns/Leet_subs/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
