@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Kishore-reigns/Leet_subs/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Kishore-reigns/Leet_subs/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
