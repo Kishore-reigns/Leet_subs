@@ -5,7 +5,7 @@ class Solution {
         for(int i = 0 ; i < n ; i++){
             String w1 = words[i] ;
             for(int j = 0 ; j < n ; j++){
-                if(i!=j && w1.length() <= words[j].length() && words[j].contains(w1) && !list.contains(w1) )list.add(w1);
+                if(i!=j && words[j].contains(w1) && !list.contains(w1) )list.add(w1);
             }
         }
         return list ; 
