@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Kishore-reigns/Leet_subs/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1923-sentence-similarity-iii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore-reigns/Leet_subs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishore-reigns/Leet_subs/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
