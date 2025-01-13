@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3468-find-the-encrypted-string) |
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 ## Simulation
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
