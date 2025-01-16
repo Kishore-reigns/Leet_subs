@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishore-reigns/Leet_subs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Kishore-reigns/Leet_subs/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore-reigns/Leet_subs/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishore-reigns/Leet_subs/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
