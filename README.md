@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Kishore-reigns/Leet_subs/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kishore-reigns/Leet_subs/tree/master/0739-daily-temperatures) |
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
+| [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Kishore-reigns/Leet_subs/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
+| [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 ## Shortest Path
 |  |
