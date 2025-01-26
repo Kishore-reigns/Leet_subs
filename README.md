@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Kishore-reigns/Leet_subs/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishore-reigns/Leet_subs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
