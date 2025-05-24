@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Kishore-reigns/Leet_subs/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
