@@ -26,6 +26,7 @@ class Solution {
             stack.deleteCharAt(stack.length()-1);
         }
 
+        return ; 
 
     }
 }
