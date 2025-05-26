@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kishore-reigns/Leet_subs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/Kishore-reigns/Leet_subs/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Kishore-reigns/Leet_subs/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kishore-reigns/Leet_subs/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore-reigns/Leet_subs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
