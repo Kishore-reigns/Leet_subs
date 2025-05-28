@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kishore-reigns/Leet_subs/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Kishore-reigns/Leet_subs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0171-excel-sheet-column-number) |
