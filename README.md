@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kishore-reigns/Leet_subs/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishore-reigns/Leet_subs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishore-reigns/Leet_subs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kishore-reigns/Leet_subs/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishore-reigns/Leet_subs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Kishore-reigns/Leet_subs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0189-rotate-array) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kishore-reigns/Leet_subs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishore-reigns/Leet_subs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kishore-reigns/Leet_subs/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
