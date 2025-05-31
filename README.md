@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0208-implement-trie-prefix-tree) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
