@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Kishore-reigns/Leet_subs/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kishore-reigns/Leet_subs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0633-sum-of-square-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0883-car-fleet](https://github.com/Kishore-reigns/Leet_subs/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
 | [1222-remove-covered-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kishore-reigns/Leet_subs/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 ## Recursion
 |  |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -826,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Kishore-reigns/Leet_subs/tree/master/0146-lru-cache) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
