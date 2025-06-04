@@ -1,17 +1,18 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] ans = new int[n+1];
-        String binary = new String();
+        int[] res = new int[n+1];
+
         int count = 0 ; 
-        for(int i = 0 ; i<= n ; i++){
-            binary = Integer.toBinaryString(i);
-             count = 0 ; 
-             for(int j = 0 ; j < binary.length() ; j++){
-                if(binary.charAt(j) == '1')count++ ; 
-             }
-             
-             ans[i] = count ;  
+        for(int i = 0 ; i <= n ; i++){
+            int x = i ; 
+            while(x > 0){
+                if((x&1) == 1)count++ ; 
+                x = x >> 1 ; 
+            }
+
+            res[i] = count ; 
+            count = 0 ;
         }
-        return ans ; 
+        return res;
     }
 }
