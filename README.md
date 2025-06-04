@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
