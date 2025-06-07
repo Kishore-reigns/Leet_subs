@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kishore-reigns/Leet_subs/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kishore-reigns/Leet_subs/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kishore-reigns/Leet_subs/tree/master/0146-lru-cache) |
