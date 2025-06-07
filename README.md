@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kishore-reigns/Leet_subs/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Data Stream
 |  |
