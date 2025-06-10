@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Kishore-reigns/Leet_subs/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Kishore-reigns/Leet_subs/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Kishore-reigns/Leet_subs/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Kishore-reigns/Leet_subs/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kishore-reigns/Leet_subs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
