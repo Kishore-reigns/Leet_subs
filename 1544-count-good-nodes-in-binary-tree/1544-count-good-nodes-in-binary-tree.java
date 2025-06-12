@@ -14,20 +14,19 @@
  * }
  */
 class Solution {
-    public int count = 0 ; 
+    int c = 0 ;
     public int goodNodes(TreeNode root) {
-        traverse(root,root.val);
-        return count ; 
+        count(root,Integer.MIN_VALUE);
+         return c ; 
     }
-    public void traverse(TreeNode root , int max){
-        if(root == null)return ; 
 
+    public void count(TreeNode root  , int max){
+        if(root == null)return ; 
         if(root.val >= max){
-            count++ ; 
             max = root.val ; 
+            c++ ; 
         }
-        
-        traverse(root.left,max);
-        traverse(root.right,max);
+        count(root.left,max);
+        count(root.right,max);
     }
 }
