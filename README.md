@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kishore-reigns/Leet_subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
