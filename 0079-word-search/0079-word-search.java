@@ -1,38 +1,37 @@
 class Solution {
+    int[] x = {0,0,1,-1}, y = {1,-1,0,0} ;
     public boolean exist(char[][] board, String word) {
-        int n = board.length ; 
-        int m = board[0].length ; 
-        for(int i = 0 ; i < n ; i++ ){
-            for(int j = 0 ;j < m ; j++){
+        int n = board.length , m = board[0].length , len = word.length() , k = 0 ; 
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
                 if(board[i][j] == word.charAt(0)){
-                    if(helper(i,j,0,board.length,board[0].length,board,word))return true ; 
+                    if(isfound(i,j,board,n,m,k,word,len))return true ; 
                 }
             }
         }
-        return false;
+        return false ; 
     }
-    public boolean helper(int i , int j ,int pt , int n , int m, char[][] board , String word){
 
+    public boolean isfound(int i, int j , char[][] board , int n , int m , int k , String word, int len){
         
-        if(pt == word.length()){
-            return true ; 
-        }
+        if(k == len)return true ; 
+        if(i < 0 || i >= n || j < 0 || j >= m)return false ; 
+       
 
-        if (i < 0 || i >= board.length || j < 0 || j >= board[0].length || board[i][j] != word.charAt(pt)) {
-            return false;
+        if(word.charAt(k) == board[i][j]){
+            k++ ; 
+            char prev = board[i][j];
+            board[i][j] = '#';
+            for(int dir = 0 ; dir < 4 ; dir++){
+                int u = x[dir] + i , v = y[dir] + j ; 
+                if(isfound(u,v,board,n,m,k,word,len))return true ; 
+            }
+            board[i][j] = prev ; 
+            k-- ; 
         }
-        char temp = board[i][j] ; 
-        board[i][j] = '#' ;
-        int[]x = {1,-1,0,0};
-        int[]y = {0,0,1,-1};
-        for(int k = 0 ;k < 4 ; k++){
-            if(helper( i + x[k] ,  j + y[k] , pt+1 ,  n ,  m,  board ,  word))return true ; 
-        }
-        board[i][j] =temp;
-        
-
         return false ; 
 
-       
+        
+        
     }
 }
