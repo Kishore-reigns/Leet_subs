@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Kishore-reigns/Leet_subs/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Kishore-reigns/Leet_subs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0171-excel-sheet-column-number) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-reigns/Leet_subs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Kishore-reigns/Leet_subs/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Kishore-reigns/Leet_subs/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 ## Tree
