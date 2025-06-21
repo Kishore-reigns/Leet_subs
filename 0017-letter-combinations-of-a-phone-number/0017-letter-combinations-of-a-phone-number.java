@@ -9,12 +9,12 @@ class Solution {
     }
 
     public void combi(int d , String digits , StringBuilder str){
-        if(d >= digits.length()){
+        if(d == digits.length()){
             res.add(str.toString());
             return ; 
         }
         int digit = digits.charAt(d) - '0';
-        System.out.println(digit);
+     
 
         String key = phone[digit];
         for(int i = 0 ; i < key.length() ; i++){
