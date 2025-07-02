@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0812-rotate-string) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/Kishore-reigns/Leet_subs/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Kishore-reigns/Leet_subs/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
