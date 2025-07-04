@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kishore-reigns/Leet_subs/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/0070-climbing-stairs) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-reigns/Leet_subs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -916,4 +918,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
