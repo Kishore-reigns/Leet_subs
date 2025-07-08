@@ -1,25 +1,28 @@
 class Solution {
+    private int[][] dp ;
+    private int total ; 
     public int findTargetSumWays(int[] nums, int target) {
         int n = nums.length ; 
-        int sum = 0 ; 
-        for(int v : nums)sum+= v ; 
-        int[][] dp = new int[n][2*sum+1] ;
-        for(int i = 0 ; i < n ; i++)Arrays.fill(dp[i],-1);
-        return helper(0,nums,n,0,target,dp,sum);
+        total = 0;
+        for(int v : nums)total += v ; 
+        dp = new int[n+1][(2*total)+1];
+
+        for (int[] row : dp) Arrays.fill(row, Integer.MIN_VALUE);
+        
+        return ways(0,0,target,nums,n);
     }
 
-    public int helper(int i , int[] nums ,int n, int sum , int target,int dp[][],int tot){
-
+    public int ways(int i,int sum,int target, int[] nums, int n){
         if(i == n){
-            if(sum == target)return 1 ;
-            return 0 ; 
+            return (sum == target)? 1 : 0;
         }
+        
+        if(dp[i][sum+total] != Integer.MIN_VALUE)return dp[i][sum+total];
 
-        if(dp[i][sum+ tot]!= -1)return dp[i][sum + tot] ; 
+        int plus = ways(i+1,sum+nums[i],target,nums,n);
+        int sub = ways(i+1,sum-nums[i],target,nums,n);
+        return dp[i][sum+total] = plus + sub ; 
 
-        int plus = helper(i+1,nums,n,nums[i]+sum,target,dp,tot);
-        int diff = helper(i+1,nums,n,0-nums[i]+sum,target,dp,tot);
 
-        return dp[i][sum+tot] = plus+diff ; 
     }
 }
