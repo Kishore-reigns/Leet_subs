@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1524-string-matching-in-an-array) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/Kishore-reigns/Leet_subs/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
