@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Kishore-reigns/Leet_subs/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kishore-reigns/Leet_subs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
