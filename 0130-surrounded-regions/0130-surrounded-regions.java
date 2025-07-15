@@ -1,33 +1,40 @@
 class Solution {
-    public void solve(char[][] board) {
-        int m = board.length , n = board[0].length ;
 
+    int[][] directions = {{0,1},{0,-1},{1,0},{-1,0}};
+    int n , m ; 
+    public void solve(char[][] board) {
+         n = board.length ;m = board[0].length ;
+        boolean[][] haso = new boolean[n][m] ; 
         for(int i = 0 ; i < m ; i++){
-            dfs(board,i,0,m,n);
-            dfs(board,i,n-1,m,n);
+            if(board[0][i] == 'O')dfs(0,i,board,haso);
+            if(board[n-1][i] == 'O')dfs(n-1,i,board,haso);
         } 
 
         for(int i = 0 ; i < n ; i++){
-            dfs(board,0,i,m,n);
-            dfs(board,m-1,i,m,n);
+            if(board[i][0] == 'O')dfs(i,0,board,haso);
+            if(board[i][m-1] =='O')dfs(i,m-1,board,haso);
         }
 
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j < n ; j++){
-                if(board[i][j] == 'O')board[i][j] = 'X';
-                else if(board[i][j] == 'v')board[i][j] = 'O';
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if(!haso[i][j] && board[i][j] != 'X')board[i][j] = 'X';
             }
         }
+        
     }
 
-    public void dfs(char[][] board , int i , int j , int m , int n){
+    public void dfs(int i , int j , char[][] board, boolean[][] haso){
+       
+        haso[i][j] = true ; 
+        for(int[] d : directions){
+            int u = i+d[0] , v = j+d[1] ; 
+            if( u >= 0 && u < n && v >= 0 && v < m && !haso[u][v] && board[u][v] == 'O'){
+                dfs(u,v,board,haso);
+            }
 
-        if( i < 0 || j < 0 || i >= m || j >= n || board[i][j] != 'O' )return ;
-        board[i][j] = 'v' ; 
-
-        dfs(board,i+1,j,m,n);
-        dfs(board,i-1,j,m,n);
-        dfs(board,i,j+1,m,n);
-        dfs(board,i,j-1,m,n); 
+        }
+        
     }
+
+
 }
