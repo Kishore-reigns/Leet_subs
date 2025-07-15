@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Kishore-reigns/Leet_subs/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishore-reigns/Leet_subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore-reigns/Leet_subs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kishore-reigns/Leet_subs/tree/master/2649-count-total-number-of-colored-cells) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Kishore-reigns/Leet_subs/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishore-reigns/Leet_subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
