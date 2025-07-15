@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Kishore-reigns/Leet_subs/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kishore-reigns/Leet_subs/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Kishore-reigns/Leet_subs/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kishore-reigns/Leet_subs/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kishore-reigns/Leet_subs/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 ## Heap (Priority Queue)
