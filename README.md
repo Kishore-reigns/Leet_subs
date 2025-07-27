@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
