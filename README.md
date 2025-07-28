@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Kishore-reigns/Leet_subs/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kishore-reigns/Leet_subs/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Kishore-reigns/Leet_subs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Kishore-reigns/Leet_subs/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kishore-reigns/Leet_subs/tree/master/0138-copy-list-with-random-pointer) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Kishore-reigns/Leet_subs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
