@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishore-reigns/Leet_subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore-reigns/Leet_subs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2481-strictly-palindromic-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2481-strictly-palindromic-number) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Kishore-reigns/Leet_subs/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kishore-reigns/Leet_subs/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kishore-reigns/Leet_subs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kishore-reigns/Leet_subs/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2481-strictly-palindromic-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore-reigns/Leet_subs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishore-reigns/Leet_subs/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2481-strictly-palindromic-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kishore-reigns/Leet_subs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kishore-reigns/Leet_subs/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
