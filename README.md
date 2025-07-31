@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Kishore-reigns/Leet_subs/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Kishore-reigns/Leet_subs/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/0162-find-peak-element) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kishore-reigns/Leet_subs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kishore-reigns/Leet_subs/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kishore-reigns/Leet_subs/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
