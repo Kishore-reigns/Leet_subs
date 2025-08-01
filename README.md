@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kishore-reigns/Leet_subs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Kishore-reigns/Leet_subs/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-reigns/Leet_subs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Kishore-reigns/Leet_subs/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Kishore-reigns/Leet_subs/tree/master/0134-gas-station) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Kishore-reigns/Leet_subs/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Kishore-reigns/Leet_subs/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-reigns/Leet_subs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Kishore-reigns/Leet_subs/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
