@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kishore-reigns/Leet_subs/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0416-partition-equal-subset-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kishore-reigns/Leet_subs/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0416-partition-equal-subset-sum) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore-reigns/Leet_subs/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kishore-reigns/Leet_subs/tree/master/0513-find-bottom-left-tree-value) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kishore-reigns/Leet_subs/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Kishore-reigns/Leet_subs/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore-reigns/Leet_subs/tree/master/0417-pacific-atlantic-water-flow) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Kishore-reigns/Leet_subs/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Kishore-reigns/Leet_subs/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore-reigns/Leet_subs/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
@@ -686,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Kishore-reigns/Leet_subs/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -882,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
@@ -897,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Kishore-reigns/Leet_subs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 ## Heap (Priority Queue)
 |  |
