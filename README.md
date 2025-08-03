@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kishore-reigns/Leet_subs/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kishore-reigns/Leet_subs/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kishore-reigns/Leet_subs/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0039-combination-sum) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kishore-reigns/Leet_subs/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Kishore-reigns/Leet_subs/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kishore-reigns/Leet_subs/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishore-reigns/Leet_subs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
