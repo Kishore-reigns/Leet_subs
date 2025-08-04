@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Kishore-reigns/Leet_subs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishore-reigns/Leet_subs/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -890,11 +893,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0729-my-calendar-i) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kishore-reigns/Leet_subs/tree/master/2413-smallest-number-in-infinite-set) |
+| [3790-fruits-into-baskets-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
 | ------- |
