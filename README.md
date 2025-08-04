@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Kishore-reigns/Leet_subs/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/1036-rotting-oranges) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Kishore-reigns/Leet_subs/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishore-reigns/Leet_subs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Kishore-reigns/Leet_subs/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Kishore-reigns/Leet_subs/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1256-rank-transform-of-an-array) |
