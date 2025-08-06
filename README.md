@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Kishore-reigns/Leet_subs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kishore-reigns/Leet_subs/tree/master/1127-last-stone-weight) |
@@ -1007,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Kishore-reigns/Leet_subs/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Kishore-reigns/Leet_subs/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
