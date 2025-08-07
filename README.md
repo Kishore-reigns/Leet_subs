@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Kishore-reigns/Leet_subs/tree/master/0412-fizz-buzz) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Kishore-reigns/Leet_subs/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishore-reigns/Leet_subs/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0496-next-greater-element-i) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Kishore-reigns/Leet_subs/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
@@ -991,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Kishore-reigns/Leet_subs/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
 ## String Matching
