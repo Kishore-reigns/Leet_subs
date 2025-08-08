@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2139-detect-squares](https://github.com/Kishore-reigns/Leet_subs/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/2145-grid-game) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore-reigns/Leet_subs/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore-reigns/Leet_subs/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kishore-reigns/Leet_subs/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore-reigns/Leet_subs/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishore-reigns/Leet_subs/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kishore-reigns/Leet_subs/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kishore-reigns/Leet_subs/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Kishore-reigns/Leet_subs/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore-reigns/Leet_subs/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kishore-reigns/Leet_subs/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kishore-reigns/Leet_subs/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore-reigns/Leet_subs/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Design
 |  |
 | ------- |
