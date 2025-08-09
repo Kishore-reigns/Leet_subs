@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kishore-reigns/Leet_subs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kishore-reigns/Leet_subs/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishore-reigns/Leet_subs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishore-reigns/Leet_subs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore-reigns/Leet_subs/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kishore-reigns/Leet_subs/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1833-find-the-highest-altitude](https://github.com/Kishore-reigns/Leet_subs/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore-reigns/Leet_subs/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/2145-grid-game) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kishore-reigns/Leet_subs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kishore-reigns/Leet_subs/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore-reigns/Leet_subs/tree/master/1777-determine-if-two-strings-are-close) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kishore-reigns/Leet_subs/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishore-reigns/Leet_subs/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kishore-reigns/Leet_subs/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/Kishore-reigns/Leet_subs/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore-reigns/Leet_subs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2481-strictly-palindromic-number) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kishore-reigns/Leet_subs/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/2478-longest-nice-subarray) |
