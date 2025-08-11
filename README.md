@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Kishore-reigns/Leet_subs/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kishore-reigns/Leet_subs/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0647-palindromic-substrings) |
