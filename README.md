@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kishore-reigns/Leet_subs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kishore-reigns/Leet_subs/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Kishore-reigns/Leet_subs/tree/master/2580-circular-sentence) |
