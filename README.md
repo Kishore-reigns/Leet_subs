@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Kishore-reigns/Leet_subs/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Kishore-reigns/Leet_subs/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0812-rotate-string) |
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Kishore-reigns/Leet_subs/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Kishore-reigns/Leet_subs/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/Kishore-reigns/Leet_subs/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0940-fruit-into-baskets) |
