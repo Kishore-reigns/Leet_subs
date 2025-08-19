@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/Kishore-reigns/Leet_subs/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Kishore-reigns/Leet_subs/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0344-reverse-string) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Kishore-reigns/Leet_subs/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/1524-string-matching-in-an-array) |
@@ -1035,11 +1037,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Kishore-reigns/Leet_subs/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Kishore-reigns/Leet_subs/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Data Stream
