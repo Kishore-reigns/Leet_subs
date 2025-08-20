@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore-reigns/Leet_subs/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kishore-reigns/Leet_subs/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2139-detect-squares](https://github.com/Kishore-reigns/Leet_subs/tree/master/2139-detect-squares) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Kishore-reigns/Leet_subs/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore-reigns/Leet_subs/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Kishore-reigns/Leet_subs/tree/master/2164-two-best-non-overlapping-events) |
