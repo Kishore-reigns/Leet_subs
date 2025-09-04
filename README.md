@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kishore-reigns/Leet_subs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/Kishore-reigns/Leet_subs/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
