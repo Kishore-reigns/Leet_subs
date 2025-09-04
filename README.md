@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore-reigns/Leet_subs/tree/master/0417-pacific-atlantic-water-flow) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Kishore-reigns/Leet_subs/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishore-reigns/Leet_subs/tree/master/0424-longest-repeating-character-replacement) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Kishore-reigns/Leet_subs/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Kishore-reigns/Leet_subs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Kishore-reigns/Leet_subs/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
@@ -1085,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 ## Game Theory
 |  |
@@ -1097,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kishore-reigns/Leet_subs/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -1141,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
