@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore-reigns/Leet_subs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2787-movement-of-robots](https://github.com/Kishore-reigns/Leet_subs/tree/master/2787-movement-of-robots) |
 | [3194-find-words-containing-character](https://github.com/Kishore-reigns/Leet_subs/tree/master/3194-find-words-containing-character) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2787-movement-of-robots](https://github.com/Kishore-reigns/Leet_subs/tree/master/2787-movement-of-robots) |
 | [3427-special-array-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/3427-special-array-ii) |
 ## String
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2787-movement-of-robots](https://github.com/Kishore-reigns/Leet_subs/tree/master/2787-movement-of-robots) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Kishore-reigns/Leet_subs/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kishore-reigns/Leet_subs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2787-movement-of-robots](https://github.com/Kishore-reigns/Leet_subs/tree/master/2787-movement-of-robots) |
 ## Breadth-First Search
 |  |
 | ------- |
