@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kishore-reigns/Leet_subs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kishore-reigns/Leet_subs/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/Kishore-reigns/Leet_subs/tree/master/1009-pancake-sorting) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kishore-reigns/Leet_subs/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kishore-reigns/Leet_subs/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
