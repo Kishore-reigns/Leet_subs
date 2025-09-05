@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kishore-reigns/Leet_subs/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Kishore-reigns/Leet_subs/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Kishore-reigns/Leet_subs/tree/master/0782-jewels-and-stones) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/Kishore-reigns/Leet_subs/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Kishore-reigns/Leet_subs/tree/master/0883-car-fleet) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Kishore-reigns/Leet_subs/tree/master/0768-partition-labels) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kishore-reigns/Leet_subs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore-reigns/Leet_subs/tree/master/1396-count-servers-that-communicate) |
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kishore-reigns/Leet_subs/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Kishore-reigns/Leet_subs/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Kishore-reigns/Leet_subs/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kishore-reigns/Leet_subs/tree/master/0789-kth-largest-element-in-a-stream) |
