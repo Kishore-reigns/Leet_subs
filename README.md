@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore-reigns/Leet_subs/tree/master/0417-pacific-atlantic-water-flow) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishore-reigns/Leet_subs/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Kishore-reigns/Leet_subs/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/0435-non-overlapping-intervals) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Kishore-reigns/Leet_subs/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kishore-reigns/Leet_subs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kishore-reigns/Leet_subs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Kishore-reigns/Leet_subs/tree/master/0605-can-place-flowers) |
