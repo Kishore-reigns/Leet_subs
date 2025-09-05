@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Kishore-reigns/Leet_subs/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kishore-reigns/Leet_subs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Kishore-reigns/Leet_subs/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Kishore-reigns/Leet_subs/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/Kishore-reigns/Leet_subs/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kishore-reigns/Leet_subs/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/1502-construct-k-palindrome-strings) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-decoded-string-at-index](https://github.com/Kishore-reigns/Leet_subs/tree/master/0916-decoded-string-at-index) |
 | [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kishore-reigns/Leet_subs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kishore-reigns/Leet_subs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore-reigns/Leet_subs/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kishore-reigns/Leet_subs/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Kishore-reigns/Leet_subs/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Kishore-reigns/Leet_subs/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kishore-reigns/Leet_subs/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kishore-reigns/Leet_subs/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
