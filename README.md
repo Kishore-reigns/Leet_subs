@@ -1236,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Kishore-reigns/Leet_subs/tree/master/0875-longest-mountain-in-array) |
+| [1212-sequential-digits](https://github.com/Kishore-reigns/Leet_subs/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/Kishore-reigns/Leet_subs/tree/master/1656-count-good-triplets) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
