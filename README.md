@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kishore-reigns/Leet_subs/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Kishore-reigns/Leet_subs/tree/master/0952-word-subsets) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Kishore-reigns/Leet_subs/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Kishore-reigns/Leet_subs/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/1036-rotting-oranges) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Kishore-reigns/Leet_subs/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Kishore-reigns/Leet_subs/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Kishore-reigns/Leet_subs/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Kishore-reigns/Leet_subs/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kishore-reigns/Leet_subs/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Kishore-reigns/Leet_subs/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/Kishore-reigns/Leet_subs/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Kishore-reigns/Leet_subs/tree/master/0883-car-fleet) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Kishore-reigns/Leet_subs/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Kishore-reigns/Leet_subs/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore-reigns/Leet_subs/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Kishore-reigns/Leet_subs/tree/master/1137-height-checker) |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Kishore-reigns/Leet_subs/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Kishore-reigns/Leet_subs/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Kishore-reigns/Leet_subs/tree/master/0987-reveal-cards-in-increasing-order) |
 ## String Matching
 |  |
 | ------- |
