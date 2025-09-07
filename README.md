@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/Kishore-reigns/Leet_subs/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/1035-cousins-in-binary-tree) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Kishore-reigns/Leet_subs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kishore-reigns/Leet_subs/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/Kishore-reigns/Leet_subs/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Kishore-reigns/Leet_subs/tree/master/0904-leaf-similar-trees) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kishore-reigns/Leet_subs/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Kishore-reigns/Leet_subs/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Kishore-reigns/Leet_subs/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/Kishore-reigns/Leet_subs/tree/master/0813-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Kishore-reigns/Leet_subs/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Kishore-reigns/Leet_subs/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Kishore-reigns/Leet_subs/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/Kishore-reigns/Leet_subs/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore-reigns/Leet_subs/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Kishore-reigns/Leet_subs/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Kishore-reigns/Leet_subs/tree/master/1039-find-the-town-judge) |
