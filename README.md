@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore-reigns/Leet_subs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kishore-reigns/Leet_subs/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kishore-reigns/Leet_subs/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kishore-reigns/Leet_subs/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Kishore-reigns/Leet_subs/tree/master/3194-find-words-containing-character) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishore-reigns/Leet_subs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Kishore-reigns/Leet_subs/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2787-movement-of-robots](https://github.com/Kishore-reigns/Leet_subs/tree/master/2787-movement-of-robots) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kishore-reigns/Leet_subs/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kishore-reigns/Leet_subs/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
